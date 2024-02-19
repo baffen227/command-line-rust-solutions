@@ -10,3 +10,6 @@ edition = "2021"
 [[bin]]
 name = "hello"
 path = "src/hello.rs"
+
+[dev-dependencies]
+assert_cmd = "1"
